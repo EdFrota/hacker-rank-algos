@@ -1,5 +1,11 @@
 package practice.interviewpreparationkit.sorting;
 
+/**
+ * Sorting: Comparator
+ * @see https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem
+ * @author edfrota
+ *
+ */
 public class Comparator {
 
 	public static int compare(Player a, Player b) {

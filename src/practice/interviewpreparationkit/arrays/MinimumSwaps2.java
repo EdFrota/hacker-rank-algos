@@ -3,7 +3,7 @@ package practice.interviewpreparationkit.arrays;
 /**
  * Minimum Swaps 2
  * @see https://www.hackerrank.com/challenges/minimum-swaps-2/problem
- * @author edmundofrota
+ * @author edfrota
  *
  */
 public class MinimumSwaps2 {
